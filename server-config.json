@@ -1,0 +1,14 @@
+{
+  "ip": "mc.xalri.ovh",
+  "version": "1.21.9",
+  "plugins": true,
+  "mods": false,
+  "driveLink": "https://drive.xalri.ovh/s/WrzMbjP44xzKDRc",
+  "modsList": [],
+  "pluginsList": [
+    {
+      "name": "Trade Shop",
+      "link": "https://www.spigotmc.org/resources/tradeshop.32762"
+    }
+  ]
+}
