@@ -1,3 +1,5 @@
+require('dotenv').config();
+
 const WOL_BASE_URL = process.env.WOL_BASE_URL?.replace(/\/$/, '');
 
 if (!WOL_BASE_URL) {
